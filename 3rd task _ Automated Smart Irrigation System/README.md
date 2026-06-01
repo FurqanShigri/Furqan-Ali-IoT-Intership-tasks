@@ -168,7 +168,7 @@ Install the **LiquidCrystal_I2C** library from Arduino Library Manager.
 
 # 👨‍💻 Author
 
-**Muhammad Zulqarnain**  
+**Furqan Ali**  
 BS Intelligent Systems & Robotics
 
 ---
